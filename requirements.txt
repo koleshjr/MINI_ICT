@@ -1,0 +1,14 @@
+openai
+langchain
+gradio
+chromadb
+tiktoken
+unstructured
+qdrant-client
+pinecone-client
+pypdf
+cohere
+youtube-transcript-api
+pytube
+pandas
+deeplake
